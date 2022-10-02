@@ -5,17 +5,17 @@ public class Guitar {
     private String name;
     private int strings;
 
-    public Guitar(String name, int age) {
+    public Guitar(String name, int strings) {
 
         if(name == null || name.isBlank() || name.isEmpty()) {
             throw new IllegalGuitarNameArgumentException(name);
         }
-        if(age <= 0) {
+        if(strings <= 0) {
             throw new IllegalGuitarStringsArgumentException(strings);
         }
 
         this.name = name;
-        this.strings = age;
+        this.strings = strings;
     }
 
     public String getName() {

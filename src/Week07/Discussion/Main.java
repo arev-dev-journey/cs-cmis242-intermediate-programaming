@@ -26,7 +26,7 @@ public class Main {
 
             try {
 
-                guitar = new Guitar(name, strings); // create instance of Pet
+                guitar = new Guitar(name, strings); // create instance of Guitar
                 invalidValue = false; // constructor did not throw exception so can exit loop
 
             } catch(IllegalGuitarNameArgumentException e) {

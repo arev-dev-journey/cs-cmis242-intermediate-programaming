@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d53117d-8ed0-45b6-a78b-9d8338d1dc11" name="Changes" comment="CMIS 242 Intermediate Programming">
-      <change afterPath="$PROJECT_DIR$/src/Week07/Discussion/Guitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week07/Discussion/IllegalGuitarNameArgumentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week07/Discussion/IllegalGuitarStringsArgumentException.java" afterDir="false" />
+    <list default="true" id="0d53117d-8ed0-45b6-a78b-9d8338d1dc11" name="Changes" comment="Sat 2022-10-01 9:43PM">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week06/Discussion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week06/Discussion/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week07/Discussion/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week07/Discussion/Guitar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Week07/Discussion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week07/Discussion/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664681609927</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Sat 2022-10-01 9:43PM">
+      <created>1664685812897</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664685812897</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +105,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2022-10-01 8:20" />
     <MESSAGE value="CMIS 242 Intermediate Programming" />
-    <option name="LAST_COMMIT_MESSAGE" value="CMIS 242 Intermediate Programming" />
+    <MESSAGE value="Sat 2022-10-01 9:43PM" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sat 2022-10-01 9:43PM" />
   </component>
 </project>
