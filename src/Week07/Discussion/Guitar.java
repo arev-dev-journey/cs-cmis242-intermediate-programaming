@@ -1,31 +1,18 @@
 package Week07.Discussion;
 
-public class Guitar {
+public class Guitar extends Instrument {
+    public Guitar() {
+        super();
+    }
 
-    private String name;
-    private int strings;
-
-    public Guitar(String name, int strings) {
-
+    public Guitar(String name, int numStrings) {
+        super(name, numStrings);
         if(name == null || name.isBlank() || name.isEmpty()) {
             throw new IllegalGuitarNameArgumentException(name);
         }
-        if(strings <= 0) {
-            throw new IllegalGuitarStringsArgumentException(strings);
+        if(numStrings < 6) {
+            throw new IllegalGuitarStringsArgumentException(numStrings);
         }
-
-        this.name = name;
-        this.strings = strings;
     }
-
-    public String getName() {
-        return name;
-    }
-
-    public int getStrings() {
-        return strings;
-    }
-
-    // other methods here
 }
 
