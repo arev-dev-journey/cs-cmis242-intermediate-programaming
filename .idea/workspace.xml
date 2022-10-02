@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d53117d-8ed0-45b6-a78b-9d8338d1dc11" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntermediateProgramming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week01/airConditioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week01/runAirConditioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week02/Discussion/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week02/Discussion/AccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week03/Discussion/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week03/Discussion/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week03/Discussion/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week03/Discussion/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week03/Discussion/runAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week03/PracticeExercise/EBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week03/PracticeExercise/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week03/PracticeExercise/MovieDVD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week03/PracticeExercise/MusicCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week03/PracticeExercise/RunRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week03/Response/Modem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week03/Response/NetworkDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week03/Response/Router.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week03/Response/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week03/Response/TestNetworkDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week04/Assignment2/FruitSnack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week04/Assignment2/OrderSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week04/Assignment2/SaltySnack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week04/Assignment2/Snack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week05/LearningResources/HelloWorldGUI1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week05/LearningResources/HelloWorldGUI2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week05/PracticeExercise/Buttons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week06/Assignment3/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week06/Assignment3/DistanceConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week06/Assignment3/GUIConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week06/Assignment3/TemperatureConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week06/Discussion/Bass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week06/Discussion/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week06/Discussion/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week06/Discussion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week06/Response/Alligator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week06/Response/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week06/Response/Constrictor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week06/Response/Gila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week06/Response/Killers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week06/Response/Predator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week07/Discussion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week07/PracticeExercise/CreatePet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week07/PracticeExercise/IllegalPetAgeArgumentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week07/PracticeExercise/IllegalPetNameArgumentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week07/PracticeExercise/Pet.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FYq1NLuvKoKRaDUQEYtdHdNXEU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/alex/venv/CMIS242/IntermediateProgramming/src/Week07/PracticeExercise",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Week07/PracticeExercise" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d53117d-8ed0-45b6-a78b-9d8338d1dc11" name="Changes" comment="" />
+      <created>1664679148441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664679148441</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
