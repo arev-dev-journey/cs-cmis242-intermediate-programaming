@@ -7,6 +7,7 @@ public class Main {
     static int numStrings;
 
     public static void main(String[] args) {
+
         getInput();
         Instrument instrument1 = new Guitar(guitarName, color, numStrings);
         getInput();
