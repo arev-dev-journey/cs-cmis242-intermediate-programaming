@@ -1,59 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d53117d-8ed0-45b6-a78b-9d8338d1dc11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntermediateProgramming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week01/airConditioner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week01/runAirConditioner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week02/Discussion/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week02/Discussion/AccountMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week03/Discussion/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week03/Discussion/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week03/Discussion/Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week03/Discussion/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week03/Discussion/runAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week03/PracticeExercise/EBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week03/PracticeExercise/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week03/PracticeExercise/MovieDVD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week03/PracticeExercise/MusicCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week03/PracticeExercise/RunRental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week03/Response/Modem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week03/Response/NetworkDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week03/Response/Router.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week03/Response/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week03/Response/TestNetworkDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week04/Assignment2/FruitSnack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week04/Assignment2/OrderSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week04/Assignment2/SaltySnack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week04/Assignment2/Snack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week05/LearningResources/HelloWorldGUI1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week05/LearningResources/HelloWorldGUI2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week05/PracticeExercise/Buttons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week06/Assignment3/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week06/Assignment3/DistanceConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week06/Assignment3/GUIConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week06/Assignment3/TemperatureConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week06/Discussion/Bass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week06/Discussion/Guitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week06/Discussion/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week06/Discussion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week06/Response/Alligator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week06/Response/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week06/Response/Constrictor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week06/Response/Gila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week06/Response/Killers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week06/Response/Predator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week07/Discussion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week07/PracticeExercise/CreatePet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week07/PracticeExercise/IllegalPetAgeArgumentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week07/PracticeExercise/IllegalPetNameArgumentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week07/PracticeExercise/Pet.java" afterDir="false" />
+    <list default="true" id="0d53117d-8ed0-45b6-a78b-9d8338d1dc11" name="Changes" comment="2022-10-01 8:20">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +37,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/Users/alex/venv/CMIS242/IntermediateProgramming/src/Week07/PracticeExercise",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
@@ -105,6 +57,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664679148441</updated>
     </task>
+    <task id="LOCAL-00001" summary="2022-10-01 8:20">
+      <created>1664680832408</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664680832408</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,5 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2022-10-01 8:20" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-10-01 8:20" />
   </component>
 </project>
