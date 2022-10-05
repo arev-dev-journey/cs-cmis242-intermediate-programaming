@@ -5,11 +5,11 @@ public class IllegalGuitarStringsArgumentException extends IllegalArgumentExcept
     private int strings;
 
     public IllegalGuitarStringsArgumentException(int strings) {
-        super("Your guitar must have at least 6 strings: strings=" + strings);
+        super("Your guitar must have at least 6 strings");
     }
 
     @Override
     public String toString() {
-        return this.getClass().getSimpleName() + " : Your guitar must have at least 6 strings: strings=" + strings;
+        return this.getClass().getSimpleName() + " : Your guitar must have at least 6 strings";
     }
 }
